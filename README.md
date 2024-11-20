@@ -10,7 +10,7 @@ You can view the Figma project here: [Handvana Figma Project](<https://www.figma
 
 ## Behance Link
 
-You can view the Figma project here: [Handvana Figma Project](<https://www.behance.net/gallery/210790425/Handvana_E-commerce-App_UiUx-Case-Study>)
+You can view the Figma project here: [Handvana Behance Project](<https://www.behance.net/gallery/210790425/Handvana_E-commerce-App_UiUx-Case-Study>)
 
 ---
 
